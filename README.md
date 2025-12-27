@@ -73,7 +73,8 @@ Publish the website in the given URL.
 </html>
 
 ## OUTPUT:
-![Uploading image.png…]()
+<img width="1209" height="563" alt="image" src="https://github.com/user-attachments/assets/9ce2239b-a79f-40f9-adf0-86cf8f18ad8e" />
+
 
 
 ## RESULT:
